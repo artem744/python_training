@@ -1,1 +1,1 @@
-# Repository for Python training 1!!!
+# Repository for my Python training 1!!!
